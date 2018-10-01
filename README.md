@@ -1,4 +1,3 @@
-# mdata-table (responsive)
 # Demo
 <https://demo-mdata-table.stackblitz.io>
 
@@ -228,17 +227,17 @@ const breakpointConfig: BreakpointConfig = {
     lg: { min: 1500 }
 }
 ```
-`xss` *We'll display when the screen it's how max 400px*
+`xss` It'll display when the screen it's how max `400px`
 
-`xs` *We'll display when the screen it's how max 768px and minimum 400px*
+`xs` It'll display when the screen it's how max `768px` and minimum `400px`
 
-`sm` *We'll display when the screen it's how max 992px and minimum 768px*
+`sm` It'll display when the screen it's how max `992px` and minimum `768px`
 
-`md` *We'll display when the screen it's how max 1200px and minimum 992px*
+`md` It'll display when the screen it's how max `1200px` and minimum `992px`
 
-`lgs` *We'll display when the screen it's how max 1500px and minimum 1200px*
+`lgs` It'll display when the screen it's how max `1500px` and minimum `1200px`
 
-`xs` *We'll display when the screen it's minimum 1500px*
+`xs` It'll display when the screen it's minimum `1500pxà
 
 For display a column in a size we can define with (`xss, xs, sm, md, lgs, lg`)
 ### Template Options for column table
