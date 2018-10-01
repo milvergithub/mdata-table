@@ -1,12 +1,11 @@
+#mdata-table (responsive)
+#Overview
+This library support to angular 4, 5 and 6.  There are many options for customize your table you can customize everything cell and everything
 # Demo
-<https://demo-mdata-table.stackblitz.io>
+<https://`demo-mdata-table.stackblitz.io>
 
 <https://stackblitz.com/edit/demo-mdata-table>
 ![Screenshot](screenshot.png)
-
-#Overview
-
-This library support to angular 4, 5 and 6.  There are many options for customize your table you can customize everything cell and everything
 
 # Installation
 
@@ -237,7 +236,7 @@ const breakpointConfig: BreakpointConfig = {
 
 `lgs` It'll display when the screen it's how max `1500px` and minimum `1200px`
 
-`xs` It'll display when the screen it's minimum `1500pxà
+`xs` It'll display when the screen it's minimum `1500px
 
 For display a column in a size we can define with (`xss, xs, sm, md, lgs, lg`)
 ### Template Options for column table
