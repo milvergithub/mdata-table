@@ -1,6 +1,7 @@
 #mdata-table (responsive)
+
 #Overview
-This library support to angular 4, 5 and 6.  There are many options for customize your table you can customize everything cell and everything
+This library support to angular 4, 5 and 6.  There are many options for customize your table you can customize everything cell and everything.
 # Demo
 <https://`demo-mdata-table.stackblitz.io>
 
